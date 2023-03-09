@@ -1,0 +1,19 @@
+body {
+  margin: 4em;
+  background-color: #1C1B22;
+  color: #DFE7EC;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+h1 {
+  text-decoration: underline;
+  font-size: 4em;
+}
+
+a {
+  display: block;
+}
